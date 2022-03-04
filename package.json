@@ -1,5 +1,6 @@
 {
   "name": "tailwindui",
+  "homepage": "https://jacobhsu.github.io/tailwindui",
   "private": true,
   "version": "0.0.0",
   "scripts": {
